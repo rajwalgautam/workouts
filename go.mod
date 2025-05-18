@@ -1,3 +1,3 @@
 module github.com/rajwalgautam/workouts
 
-go 1.20
+go 1.23
